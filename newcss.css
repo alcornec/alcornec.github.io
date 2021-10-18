@@ -1,0 +1,19 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11 oct. 2021, 15:47:41
+    Author     : ACORNEC
+*/
+body {
+    background-color: deepskyblue;
+}
+
+h1 {
+    color: red;
+    font-family: serif;
+    font-size: 50px;
+    margin-bottom: 50px;
+}
