@@ -17,3 +17,26 @@ h1 {
     font-size: 50px;
     margin-bottom: 50px;
 }
+
+div {
+    background-color: snow;
+    font-family: monospace; 
+    font-size: 20px;
+    
+}
+
+table {
+    background-color: beige;
+}
+
+ol {
+    background-color: snow;   
+}
+
+ul li {
+    background-color: red;
+}
+.menu ol li {
+    font-family: cursive;
+    color: darkblue;
+}
