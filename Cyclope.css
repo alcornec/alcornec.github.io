@@ -1,0 +1,146 @@
+body{
+	background-color: white;
+}
+
+div.w3-sidebar{
+	background: black;
+	color: white;
+	font-family: cursive;
+	font-size: 125%
+}
+
+.w3-container{
+	background: black;
+	color: white;
+}
+
+.w3-teal{
+    background-color: #000!important;
+}
+
+.mg{
+	font-family: cursive;
+}
+
+.title{
+	font-size: 300%;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.little{
+	font-family: cursive;
+	font-size: 200%;
+	text-align: left;
+	text-decoration: underline;
+}
+
+.Cyclope1{
+	width: 60vh;
+	height: 80vh;
+	position: absolute;
+	left: 480px;
+	top: 650px;
+	bottom: 0;
+	margin: auto;
+}
+
+.Cyclope2{
+	width: 60vh;
+	height: 80vh;
+	position: absolute;
+	left: 10px;
+	top: 650px;
+	bottom: 0;
+	margin: auto;
+}
+
+.Cyclope3{
+	width: 80vh;
+	height: 50vh;
+	position: absolute;
+	top: 600px;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+}
+
+.espace{
+	height: 85vh;
+	background: black;
+	color: black;
+}
+
+.es{
+	height: 15vh;
+	background: black;
+	color: black;
+}
+
+.m{
+	font-family: cursive;
+	font-size: 200%;
+	text-align: left;
+	text-decoration: underline;
+}
+
+.Minotaure1{
+	width: 60vh;
+	height: 80vh;
+	position: absolute;
+	left: 50px;
+	top: 2920px;
+	bottom: 0;
+	margin: auto;
+}
+
+.Minotaure2{
+	width: 60vh;
+	height: 80vh;
+	position: absolute;
+	right: 550px;
+	top: 2920px;
+	bottom: 0;
+	margin: auto;
+}
+
+.Minotaure4{
+	width: 40vh;
+	height: 60vh;
+	position: absolute;
+	right: 150px;
+	top: 2920px;
+	bottom: 0;
+	margin: auto;
+}
+
+.Minotaure3{
+	width: 160vh;
+	height: 64vh;
+	position: absolute;
+	left: 150px;
+	top: 4100px;
+	bottom: 0;
+	margin: auto;
+}
+
+
+.space{
+	height: 155vh;
+	background: black;
+	color: black;
+}
+
+.black{
+	height: 10vh;
+	background-color: black;
+}
+
+.contact{
+	font-family: cursive;
+	font-size: 150%;
+	text-align: center;
+	background: black;
+	color: white;
+	height: 5vh;
+}

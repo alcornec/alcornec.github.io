@@ -1,0 +1,74 @@
+body{
+	background-color: white;
+}
+
+div.w3-sidebar{
+	background: black;
+	color: white;
+	font-family: cursive;
+	font-size: 125%
+}
+
+.w3-container{
+	background: black;
+	color: white;
+}
+
+.w3-teal{
+    background-color: #000!important;
+}
+
+.mg{
+	text-align: center; 
+}
+.title{
+	font-size: 300%;
+	text-decoration: underline;
+	font-family: cursive;
+}
+
+.D1{
+	width: 100vh;
+	height: 60vh;
+	position: absolute;
+	right: 10px;
+	top: 1600px;
+	bottom: 0;
+	margin: auto;
+}
+
+.D2{
+	width: 100vh;
+	height: 60vh;
+	position: absolute;
+	left: 15px;
+	top: 1600px;
+	bottom: 0;
+	margin: auto;
+}
+
+.espace{
+	height: 77vh;
+	background: black;
+	color: black;
+}
+
+.{
+	font-family: cursive;
+	font-size: 125%;
+	text-align: center;
+}
+
+.black{
+	height: 10vh;
+	background-color: black;
+}
+
+.contact{
+	font-family: cursive;
+	font-size: 150%;
+	text-align: center;
+	background: black;
+	color: white;
+	height: 5vh;
+}
