@@ -40,7 +40,7 @@ div.w3-sidebar{
 	height: 85vh;
 	position: absolute;
 	right: 100px;
-	top: 100px;
+	top: 1000px;
 	bottom: 0;
 	margin: auto;
 }
@@ -85,7 +85,7 @@ div.w3-sidebar{
 .V2{
 
 	position: absolute;
-	left: 100px;
+	right: 800px;
 	top: 4050px;
 	bottom: 0;
 	margin: auto;
