@@ -45,16 +45,6 @@ div.w3-sidebar{
 	margin: auto;
 }
 
-.PJ2{
-	width: 100vh;
-	height: 70vh;
-	position: absolute;
-	left: 50px;
-	top: 735px;
-	bottom: 0;
-	margin: auto;
-}
-
 .espace{
 	height: 85vh;
 	background: black;
@@ -72,16 +62,6 @@ div.w3-sidebar{
 	font-size: 200%;
 	text-align: left; 
 	text-decoration: underline;
-}
-
-.PJ3{
-	width: 85vh;
-	height: 85vh;
-	position: absolute;
-	left: 10px;
-	top: 3010px;
-	bottom: 0;
-	margin: auto;
 }
 
 .PJ4{
