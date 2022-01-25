@@ -45,6 +45,14 @@ div.w3-sidebar{
 	margin: auto;
 }
 
+.V1{
+	position: absolute;
+	left: 100px;
+	top: 1450px;
+	bottom: 0;
+	margin: auto;
+}
+
 .espace{
 	height: 85vh;
 	background: black;
@@ -70,6 +78,15 @@ div.w3-sidebar{
 	position: absolute;
 	right: 100px;
 	top: 4500px;
+	bottom: 0;
+	margin: auto;
+}
+
+.V2{
+
+	position: absolute;
+	right: 100px;
+	top: 4450px;
 	bottom: 0;
 	margin: auto;
 }
